@@ -20,7 +20,7 @@ It's important to note you don't have to just go on one! You can do a bit on eac
 
 ## Example problem
 
-Most competitive programming problems will follow a similar format. It'll usually describe the problem, describe its input, describe its output, then give a sample input/output to test your program. For example:
+Most competitive programming problems will follow a similar format. It'll usually describe the problem, describe its input, describe its output, then give a couple sample inputs/outputs to test your program. For example:
 
 > Alice and Bob are both carrying a bunch of apples with them. Unfortunately, they bumped into eachother and dropped all their apples. Now they can't tell whose is whose, and they're all mixed together. How many apples are now on the ground?
 
@@ -43,3 +43,6 @@ int main() {
   cin >> n >> m; // get the two numbers from input
   cout << n + m; // print out the two numbers added together
 }
+```
+
+This isn't a real problem, but some of the [easiest problems](https://open.kattis.com/problems?order=problem_difficulty) on kattis are around the same difficulty level as this.
