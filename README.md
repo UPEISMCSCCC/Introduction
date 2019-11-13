@@ -2,6 +2,12 @@
 
 This is an intro to competitive programming. This is supposed to cover some of the basic information needed to get started.
 
+## Tips
+
+1. **The best time to start is now** -- the more practice you get in the better, and if you wait until you're in your last year to practice a lot, you'll have a lot of catching up to do. It can be intimidating to see a difficult problem, but the only way you can solve it is by practicing easier ones until you're comfortable.
+2. **Keep at it** -- you make the most progress by doing some amount regularly. If you solve some problems every day or two, you'll become very good in no time.
+3. **Talk with others** -- if you don't understand a problem or know a good approach for it, there will probably be someone who you can discuss it with that can help out. Becoming friendly with others is good in general, but especially since they might be your teammates in a competition.
+
 ## Platforms
 
 There are several different platforms to practice competitive programming. Here is a few of the important ones:
