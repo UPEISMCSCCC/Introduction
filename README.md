@@ -46,3 +46,14 @@ int main() {
 ```
 
 This isn't a real problem, but some of the [easiest problems](https://open.kattis.com/problems?order=problem_difficulty) on kattis are around the same difficulty level as this.
+
+## FAQ
+
+*What language should I use?*
+
+In general, whatever you prefer. The three most popular languages are C++, Python, and Java, so most resources (including the ones here) will only be in those languages. The pros/cons are:
+- C++ is very fast, and does have some very good libraries. It misses a few though (arbitrarily large integers is the main one) that mean some problems can't be done in C++, and it has a lot of boilerplate code.
+- Python is relatively slow, but is very fast to code in with very little boilerplate. It supports things like arbitrarily large integers by default, but 
+- Java doesn't have the speed that C++ does, and in fact on kattis it's slower than python too. That said there is 
+
+You don't need to learn another language immediately if you want to become a competitive programmer, but it can be useful to learn some later.
