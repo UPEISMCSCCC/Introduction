@@ -67,3 +67,9 @@ In general, whatever you prefer. The three most popular languages are C++, Pytho
 - Java doesn't have the speed that C++ does, and in fact on kattis it's slower than python too. That said it does have a lot of good libraries and useful utilities, and since it's the language a lot of people learn data structures and algorithms in it can be useful to know.
 
 You don't need to learn another language immediately if you want to become a competitive programmer, but it can be useful to learn some later.
+
+*What Text editor / IDE should I use?*
+
+In online competitions or practice problems, you can use whatever text editor you want. Because you'll be writing one file most of the benefits an IDE provides don't come into play, so it's not a significant difference whichever you use.
+
+In in-person competitions, you often can't use your own computer so you'll usually only have vim, emacs, and simple editors like gedit. Sometimes an IDE will be provided, but you shouldn't be reliant on an IDE and should be able to work in a simple text editor for competitions that require it.
