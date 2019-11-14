@@ -2,6 +2,8 @@
 
 This is an intro to competitive programming. This is supposed to cover some of the basic information needed to get started.
 
+Competitive programming is problem solving using code. You are given a well defined problem (you know everything about what's an input you need to test, and what your output should look like) and a set of constraints (time limit and memory limit) and have to come up with a valid solution. Sometimes the problem isn't difficult, but you have to be able to code it fast. Sometimes the problem is incredibly difficult, and you need vast knowledge of obscure algorithms and data structures to get a solution. 
+
 ## Tips
 
 1. **The best time to start is now** -- the more practice you get in the better, and if you wait until you're in your last year to practice a lot, you'll have a lot of catching up to do. It can be intimidating to see a difficult problem, but the only way you can solve it is by practicing easier ones until you're comfortable.
