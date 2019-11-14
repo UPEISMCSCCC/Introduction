@@ -51,6 +51,14 @@ This isn't a real problem, but some of the [easiest problems](https://open.katti
 
 ## FAQ
 
+*Will this help with my classes?*
+
+Absolutely! Many competitive programming problems are similar to problems you see in your classes. As you learn more and become faster at competitive programming, you'll also have an easier time with programming for courses.
+
+*Will this help with employment?*
+
+Competitive programming can help with that too. Competition results look very nice on a resume, and can be a good way to show off your knowledge and skills to an employer.
+
 *What language should I use?*
 
 In general, whatever you prefer. The three most popular languages are C++, Python, and Java, so most resources (including the ones here) will only be in those languages. The pros/cons are:
