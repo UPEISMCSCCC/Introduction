@@ -19,3 +19,10 @@ Name | Author | Description
 Guide to Competitive Programming | Antti Laaksonen | Competitive programming focused
 Competitive Programing | Steven Halim | Competitive programming focused
 Introduction to Algorithms | CLRS | Good textbook on algorithms
+
+## Developing
+
+Name | Description
+---- | -----------
+[OnlineGDB](https://www.onlinegdb.com/) | Online compiler that supports various languages
+[QuickBench](http://quick-bench.com/) | Benchmark C++ code conveniently
