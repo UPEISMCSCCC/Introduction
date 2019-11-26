@@ -1,5 +1,7 @@
 # Resource List
 
+Here is a brief list of base resources for learning. You likely won't have to read everything in all of these resources, but they will be good for learning or looking up something that you don't know.
+
 ## Sites
 
 Name | Description
