@@ -73,3 +73,9 @@ You don't need to learn another language immediately if you want to become a com
 In online competitions or practice problems, you can use whatever text editor you want. Because you'll be writing one file most of the benefits an IDE provides don't come into play, so it's not a significant difference whichever you use.
 
 In in-person competitions, you often can't use your own computer so you'll usually only have vim, emacs, and simple editors like gedit. Sometimes an IDE will be provided, but you shouldn't be reliant on an IDE and should be able to work in a simple text editor for competitions that require it.
+
+***Where can I learn more?***
+
+There's a lot you can do to learn more! Asking other people who are currently involved in competitive programming can likely give you more resources. Most people who are involved with this club should be helpful when possible.
+
+There's also some resources listed [here](./Resources.md).
