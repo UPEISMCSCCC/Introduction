@@ -51,15 +51,15 @@ This isn't a real problem, but some of the [easiest problems](https://open.katti
 
 ## FAQ
 
-*Will this help with my classes?*
+***Will this help with my classes?***
 
 Absolutely! Many competitive programming problems are similar to problems you see in your classes. As you learn more and become faster at competitive programming, you'll also have an easier time with programming for courses.
 
-*Will this help with employment?*
+***Will this help with employment?***
 
 Competitive programming can help with that too. Competition results look very nice on a resume, and can be a good way to show off your knowledge and skills to an employer.
 
-*What language should I use?*
+***What language should I use?***
 
 In general, whatever you prefer. The three most popular languages are C++, Python, and Java, so most resources (including the ones here) will only be in those languages. The pros/cons are:
 - C++ is very fast, and does have some very good libraries. It misses a few though (arbitrarily large integers is the main one) that mean some problems can't be done in C++, and it has a lot of boilerplate code.
@@ -68,7 +68,7 @@ In general, whatever you prefer. The three most popular languages are C++, Pytho
 
 You don't need to learn another language immediately if you want to become a competitive programmer, but it can be useful to learn some later.
 
-*What Text editor / IDE should I use?*
+***What Text editor / IDE should I use?***
 
 In online competitions or practice problems, you can use whatever text editor you want. Because you'll be writing one file most of the benefits an IDE provides don't come into play, so it's not a significant difference whichever you use.
 
